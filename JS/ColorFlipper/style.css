@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+h3 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+#green {
+  background: #28a745;
+}
+#red {
+  background: #dc3545;
+}
+#blue {
+  background: #007bff;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  background: #343a40;
+  font-size: 2rem;
+  color: white;
+  border: 1px solid lightgray;
+  padding: 0.25rem 0.5rem;
+  text-transform: capitalize;
+  margin: 0.5rem;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 25px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
