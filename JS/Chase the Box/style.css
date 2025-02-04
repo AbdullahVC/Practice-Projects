@@ -1,0 +1,12 @@
+#targetBox {
+  position: absolute;
+  background-color: red;
+  cursor: pointer;
+  display: none; /* Başlangıçta kutuyu gizle */
+}
+
+#statusMessage {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
