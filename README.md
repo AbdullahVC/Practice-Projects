@@ -17,7 +17,7 @@ The repository consists of the following main folders:
   Projects, scripts, and exercises developed using Python.
 
 - **html-css-js**  
-  Web projects and design examples created using HTML, CSS, and JavaScript.
+  Web projects and design examples created using React.
 
 ## My Purpose
 
@@ -37,10 +37,6 @@ This repository was created to track my progress in the technologies I've learne
 ## Contributing
 
 While this repository contains my personal exercises, I welcome your feedback and contributions. Feel free to open an issue or submit a pull request with suggestions, bug reports, or improvements.
-
-## License
-
-[Add your license information here. For example, if you are using the MIT License, include the appropriate text. If you prefer not to specify a license, you can remove this section.]
 
 ## Contact
 
